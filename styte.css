@@ -386,11 +386,9 @@ ul {
 }
 
 .bai10 {
-    width: 1500px;
-    height: 500px;
-    margin: 0px 400px;
+    margin: 30px auto;
     background: url(https://nhandaovadoisong.com.vn/wp-content/uploads/2019/10/hinh-anh-dem-noi-len-tam-trang3.jpg) no-repeat;
-    background-size: 1100px 220px;
+    background-size: 1180px 220px;
     padding: 38px 0;
     width: 1180px;
     text-align: center;
@@ -504,7 +502,8 @@ ul {
 
 .bai13 .air {
     max-width: 490px;
-    width: 42.98%;
+    width: 30%;
+    margin-right: 130px;
 }
 
 .bai13 .links {
