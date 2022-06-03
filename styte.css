@@ -488,9 +488,8 @@ ul {
 }
 
 .bai13 {
-    margin: 30px auto;
+    margin: 100px 400px 800px 400px;
     position: relative;
-    width: 1140px;
     font-size: 20px;
 }
 
@@ -530,4 +529,26 @@ ul {
 
 .bai13 .contact address {
     font-style: normal;
+}
+
+.bai14 {
+    margin: 30px auto;
+    position: relative;
+    width: 690px;
+    font-size: 19.5px;
+}
+
+.bai14 p {
+    margin: 20px 0;
+}
+
+.bai14 ul li {
+    float: left;
+    width: 33%;
+    margin-bottom: 10px;
+}
+
+.bai14 ul li i {
+    color: #c2d82e;
+    margin-right: 10px;
 }
